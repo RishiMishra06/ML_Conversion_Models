@@ -3,7 +3,7 @@
 2.These models can be used for real-world applications like unit conversion, data normalization and more.
 
 # Technologies Used:-
-- Python 3.x
+- Python
 - Scikit-learn
 - Pandas
 - NumPy
@@ -15,6 +15,6 @@
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 # Author
-Rishi Mishra 
-Email: rishimishra160106@gmail.com
-GitHub: https://github.com/RishiMishra06
+Rishi Mishra   
+Email: rishimishra160106@gmail.com. 
+GitHub: https://github.com/RishiMishra06. 
